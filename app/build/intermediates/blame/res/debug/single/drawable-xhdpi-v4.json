@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_email.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_twitter.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_back_arr.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_sinaweibo.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_weibo_common_shadow_top.9.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_weibo_empty_failed.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_instagram.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_renren.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_check_default.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_googleplus.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_wechatfavorite.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_country_cl_divider.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_pocket.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_yixin.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_bluetooth.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_dropbox.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_kaixin.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_dingding.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_meipai.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_foursquare.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_country_clear_search.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_instapaper.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_kakaostory.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_title_div.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_title_div.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_shortmessage.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_youtube.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_wechat.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_logo.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_logo.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_laiwang.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_vkontakte.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_yixinmoments.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_country_back_arrow.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_alipay.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_alipaymoments.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_whatsapp.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_auth_title_back.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_country_sharesdk_icon.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_input_bg_focus.9.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_flickr.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_pinterest.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_youdao.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_evernote.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_mingdao.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_facebook.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_kakaotalk.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_tumblr.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_country_search_icon.png",
+        "source": "/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/res/drawable-xhdpi-v4/ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_qzone.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_telegram.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_telegram.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_qq.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_wechatmoments.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_facebookmessenger.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_check_checked.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_line.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_linkedin.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_tencentweibo.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_laiwangmoments.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ssdk_oks_classic_douban.png",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable-xhdpi-v4/ssdk_oks_classic_douban.png"
+    }
+]

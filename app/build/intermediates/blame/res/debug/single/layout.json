@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/layout/register_page.xml",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/layout/register_page.xml"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/layout/login_page.xml",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/layout/login_page.xml"
+    }
+]

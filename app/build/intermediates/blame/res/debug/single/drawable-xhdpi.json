@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi/checked.png",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/drawable-xhdpi/checked.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi/tpl_title_back_arrow.png",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/drawable-xhdpi/tpl_title_back_arrow.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable-xhdpi/tpl_logo.png",
+        "source": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/src/main/res/drawable-xhdpi/tpl_logo.png"
+    }
+]

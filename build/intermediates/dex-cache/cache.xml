@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Tumblr/3.1.3.1/528f6ba6097e58b049d9b6fe37655eaa48d98f06/ShareSDK-Tumblr-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="528f6ba6097e58b049d9b6fe37655eaa48d98f06">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Tumblr-3.1.3.1_bfe27ed69db0c56ab62687f54cde90571ff92025/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Evernote/3.1.3.1/3d718504b415781a781b642ee6d84132769c8965/ShareSDK-Evernote-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d718504b415781a781b642ee6d84132769c8965">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Evernote-3.1.3.1_c530e64cc1dd0d7c8b086e82999d5dec639924bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/jars/libs/ShareSDK-Core-3.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc441a1ba6bbcf4c92cbb59356bbd2dfedd84442">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Core-3.1.3_eb25257c882a9516d629a50804f52fbb3689989f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-SinaWeibo/3.1.3.1/18e7107b163df8679d9196b6c9d6d23d50032184/ShareSDK-SinaWeibo-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18e7107b163df8679d9196b6c9d6d23d50032184">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-SinaWeibo-3.1.3.1_208372b59927bbdd162703ffee1617d622902fc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Yixin/3.1.3.1/96376062ac3258f830c06c1643b131545722b8f1/ShareSDK-Yixin-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96376062ac3258f830c06c1643b131545722b8f1">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Yixin-3.1.3.1_7432ec48eea95bcd058237dbcff7ae436536fdf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Youtube/3.1.3.1/d24c74d767af69af30979b08b51aec90bb481c7a/ShareSDK-Youtube-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d24c74d767af69af30979b08b51aec90bb481c7a">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Youtube-3.1.3.1_dd9d9c13e64c84bf2e3f47c5396cd7ba74ddf274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/com.mob/SDKWrapper/2018.0201.1609/1058045b6dc4bdee017560a29c4d46b236b9b76/SDKWrapper-2018.0201.1609.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01058045b6dc4bdee017560a29c4d46b236b9b76">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/SDKWrapper-2018.0201.1609_f01c5e9c8f94675fb338f7531c2d61bb2701f9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-KaiXin/3.1.3.1/f76e69792f256d9d5f442421a007131a135871bb/ShareSDK-KaiXin-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f76e69792f256d9d5f442421a007131a135871bb">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-KaiXin-3.1.3.1_470f7b860af89bedd3c061631a9fc938855433f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Foursquare/3.1.3.1/86968ffc22995043c061ee9bbb5760f1a5d406b6/ShareSDK-Foursquare-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86968ffc22995043c061ee9bbb5760f1a5d406b6">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Foursquare-3.1.3.1_8ed23582b77fab04a03f29e98b098e4986984897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Pinterest/3.1.3.1/ae182d069a0e98698b4a8194c45176bcac8bd719/ShareSDK-Pinterest-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae182d069a0e98698b4a8194c45176bcac8bd719">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Pinterest-3.1.3.1_a2ab4ecf7f202a8e504c64b75ad96d0c10875572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Pocket/3.1.3.1/41f73ba7399baf9e25bedf4d35465ba7ba2df039/ShareSDK-Pocket-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f73ba7399baf9e25bedf4d35465ba7ba2df039">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Pocket-3.1.3.1_d72aa253f002bd4fb666b8e69ff457ba9793362d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Yixin-Moments/3.1.3.1/8c805f41739c7bb4883fb22af8af5a4faf5a193e/ShareSDK-Yixin-Moments-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c805f41739c7bb4883fb22af8af5a4faf5a193e">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Yixin-Moments-3.1.3.1_8f78bfc986bc98782b8ac2d0ca4981c1586492d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Dropbox/3.1.3.1/54a59d91ab5c8f023ec353a275da38dd0be309e9/ShareSDK-Dropbox-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54a59d91ab5c8f023ec353a275da38dd0be309e9">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Dropbox-3.1.3.1_d6ee9cfb8b7ada39bc248e1e3dbb1f9504f88ad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-KakaoTalk/3.1.3.1/d4cb9a7ed7af99e2e02d23a0d3c1183ae4ddff8/ShareSDK-KakaoTalk-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d4cb9a7ed7af99e2e02d23a0d3c1183ae4ddff8">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-KakaoTalk-3.1.3.1_b41315e6d35ae1a3645c1b1debcb64763ca55001/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-WhatsApp/3.1.3.1/8f716be09c683a44efe0ce170edbd69a0feb25b1/ShareSDK-WhatsApp-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f716be09c683a44efe0ce170edbd69a0feb25b1">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-WhatsApp-3.1.3.1_11010c93996a3a4b2a4697cd05ccf8b60aa2d42c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Renren/3.1.3.1/f64e795a36f8b2ee54aa0da41c43ab0ba7223c27/ShareSDK-Renren-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f64e795a36f8b2ee54aa0da41c43ab0ba7223c27">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Renren-3.1.3.1_ddf230d55f7b0b6824abac0789c6fed771f9dd04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Kakao-Core/3.1.3.1/977cbf6b68e0da9d0583f1333d89741c7390de2b/ShareSDK-Kakao-Core-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="977cbf6b68e0da9d0583f1333d89741c7390de2b">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Kakao-Core-3.1.3.1_e743846e9c01ab7cab102a8e9670d0a708555bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Facebook/3.1.3.1/799a0411871c50810c3e48845e55baca93d6f9b8/ShareSDK-Facebook-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="799a0411871c50810c3e48845e55baca93d6f9b8">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Facebook-3.1.3.1_5758d30361eb1a962700cafb861fd21fce133e41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Moments/3.1.3.1/45b6023bc51e649823075c05b25eece0272bc924/ShareSDK-Wechat-Moments-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45b6023bc51e649823075c05b25eece0272bc924">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Wechat-Moments-3.1.3.1_b9820d1752367539f9630e4bbe12d062d11981d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Alipay-Core/3.1.3.1/9fc28d38f7724f9a119df295dbef519781861cd2/ShareSDK-Alipay-Core-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fc28d38f7724f9a119df295dbef519781861cd2">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Alipay-Core-3.1.3.1_473f4c296b0c770fa339bda3aef57848648dd115/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.android/build-cache/62632d28b9e674e87d71fc4e336c5f00c472853a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5afdaf989cba6d6d2c896227738aba74d42ead1a">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b9073b8261574bb51d84635c3824e7d290d4c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/com.mob/MobCommons/2018.0224.1417/a60df0c34762d24797f844a6dbe5bad9af55a19f/MobCommons-2018.0224.1417.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60df0c34762d24797f844a6dbe5bad9af55a19f">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/MobCommons-2018.0224.1417_b2b4237becb0f8237a9ff3e2a8a2dc668c091623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-ShortMessage/3.1.3.1/c94ce0e7dfb8d594b2dd454e00f1eecae268f786/ShareSDK-ShortMessage-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c94ce0e7dfb8d594b2dd454e00f1eecae268f786">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-ShortMessage-3.1.3.1_ac37602dd9a1e9847cb85831e47d25e33eaa0f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-GooglePlus/3.1.3.1/a0f33ff4fa93c39c38b3b9efa6817c8d29139c89/ShareSDK-GooglePlus-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0f33ff4fa93c39c38b3b9efa6817c8d29139c89">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-GooglePlus-3.1.3.1_69ce0b46a98e0a98228487700ef6621c747405a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e362841f99439072a206b4d79b8a330c90763e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Favorite/3.1.3.1/96927a875d6f4fc78b73b9d8e1c226b9dbfa7838/ShareSDK-Wechat-Favorite-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96927a875d6f4fc78b73b9d8e1c226b9dbfa7838">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Wechat-Favorite-3.1.3.1_e802198af9c82804859f345eae16d771eb37161f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-VKontakte/3.1.3.1/432fe5df8ee268737cc6b0074f14a49023067a73/ShareSDK-VKontakte-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="432fe5df8ee268737cc6b0074f14a49023067a73">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-VKontakte-3.1.3.1_7f7d4e4617a4de4d30bee00f9d950cbf11e32487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Linkedin/3.1.3.1/2ceb2f7e7cd0f7f15e94b7209545ccbb52daa59e/ShareSDK-Linkedin-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ceb2f7e7cd0f7f15e94b7209545ccbb52daa59e">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Linkedin-3.1.3.1_dfc6d712e9e4fc9bbef590605900669a1fb4a66d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Instapaper/3.1.3.1/2b1acce997dc072433c80347aa31d93ff35bd96f/ShareSDK-Instapaper-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b1acce997dc072433c80347aa31d93ff35bd96f">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Instapaper-3.1.3.1_a3d6231846fb51d102c406037d1ad866e31318eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Yixin-Core/3.1.3.1/b8f61bc35f3ad636e9af609a44a0314770e5fdfa/ShareSDK-Yixin-Core-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8f61bc35f3ad636e9af609a44a0314770e5fdfa">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Yixin-Core-3.1.3.1_69c61fdd5d420f580b71559eb05944fddf5524e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Douban/3.1.3.1/e752dd83a5d33e9be8bfbecef8eebc6e04fb9a45/ShareSDK-Douban-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e752dd83a5d33e9be8bfbecef8eebc6e04fb9a45">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Douban-3.1.3.1_81c322eca33ecf49a7feadc79e34fe663cf2b137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Flickr/3.1.3.1/1214c230dbeceb86f600629c7a4ebbc37f04fb63/ShareSDK-Flickr-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1214c230dbeceb86f600629c7a4ebbc37f04fb63">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Flickr-3.1.3.1_99dc0b929b805b9a8553ed72a8565f88b0a795e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat/3.1.3.1/69aa65184cb6acadaae71e36c6f1872542b06576/ShareSDK-Wechat-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69aa65184cb6acadaae71e36c6f1872542b06576">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Wechat-3.1.3.1_dc0d36633dcc0e5e61ae7e10e04fb287ad75d6c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Meipai/3.1.3.1/6496337e5b0910092b3d6254fcbc9b4d8e33581a/ShareSDK-Meipai-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6496337e5b0910092b3d6254fcbc9b4d8e33581a">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Meipai-3.1.3.1_51a4accead3aee84dc4e94d5ce73002c7d28f46d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1f596bc31828736b749c87c415f9170d57c87ce">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_420cc8993ba7a8933d24b51df2e15d700005fac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-QZone/3.1.3.1/4e58f5b70cc71166e55f281a7a2bc4d424ac43b2/ShareSDK-QZone-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e58f5b70cc71166e55f281a7a2bc4d424ac43b2">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-QZone-3.1.3.1_06a4bed7d401a0529ba3850fbd8ba6dbaf460fba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Instagram/3.1.3.1/65190e019852f87675bf20a0331c00c76c6af3d8/ShareSDK-Instagram-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65190e019852f87675bf20a0331c00c76c6af3d8">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Instagram-3.1.3.1_549f2305ebcf9c64809f05fee3e01714e3c346fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Email/3.1.3.1/130b3e9de0263e68b6e0e0af029a44379e9da3d2/ShareSDK-Email-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="130b3e9de0263e68b6e0e0af029a44379e9da3d2">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Email-3.1.3.1_125ff0565d614e3083cbae798054a804024ba5df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-YouDao/3.1.3.1/70244403d2a622c3e5ba929a2702769e373ebd5d/ShareSDK-YouDao-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70244403d2a622c3e5ba929a2702769e373ebd5d">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-YouDao-3.1.3.1_5dd0a6b07a5ed880041942e1e5e65d4397e3ba41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43cea1fcb9e854a4ea08955435c58680bdf8b20a">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bab0c32d82ff0ba2432dab38d839b8f868fabeeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Alipay-Moments/3.1.3.1/43cca3210e096103649012d858f7c58374cc63f0/ShareSDK-Alipay-Moments-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43cca3210e096103649012d858f7c58374cc63f0">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Alipay-Moments-3.1.3.1_0e8efd857e22015197fb13a9591b1f2919a9b54c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-TencentWeibo/3.1.3.1/f34d845a3c4856523b1336ddd0af6c020f76f676/ShareSDK-TencentWeibo-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f34d845a3c4856523b1336ddd0af6c020f76f676">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-TencentWeibo-3.1.3.1_684cac15db908564362816c2ce30975bfe498f60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/com.mob/MobGUI/2018.0224.1419/8aa1ec422608b10fd6be50f183c3584b5052acac/MobGUI-2018.0224.1419.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8aa1ec422608b10fd6be50f183c3584b5052acac">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/MobGUI-2018.0224.1419_c2d27585ab364fb877532c572c926b112c2ff965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Line/3.1.3.1/698dcdd4370e5022b581a59921c7221e6388b27e/ShareSDK-Line-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="698dcdd4370e5022b581a59921c7221e6388b27e">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Line-3.1.3.1_04ea4dffbf6f4852a47a1f2b72ad409d750fc30a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Mingdao/3.1.3.1/fbb64d021e956194c48d4a0c755b27740c612c4e/ShareSDK-Mingdao-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb64d021e956194c48d4a0c755b27740c612c4e">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Mingdao-3.1.3.1_f7edaccef545a27a58d8ee69af40c785114c1155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Alipay/3.1.3.1/8d8510f41d0b4094502f241330621e1ffd103829/ShareSDK-Alipay-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8510f41d0b4094502f241330621e1ffd103829">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Alipay-3.1.3.1_0f731a7c04b49cd27c21e89f804d33fea3809a6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Telegram/3.1.3.1/beb31648651bf9582895f40407995d9d795af009/ShareSDK-Telegram-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beb31648651bf9582895f40407995d9d795af009">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Telegram-3.1.3.1_fb71644d1fd23e2b6c063f3953367b8e4b3354d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Wechat-Core/3.1.3.1/4db9d96d59433acd050e5ac41b96bd598a9af661/ShareSDK-Wechat-Core-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4db9d96d59433acd050e5ac41b96bd598a9af661">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Wechat-Core-3.1.3.1_2de393b2b499486b8e5fe7ddbb89a3f5560c8775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-FacebookMessenger/3.1.3.1/56193389bcba40326fcde75b9bea73bc7b15ca2a/ShareSDK-FacebookMessenger-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56193389bcba40326fcde75b9bea73bc7b15ca2a">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-FacebookMessenger-3.1.3.1_8493b412ad5b3c56dbc5031283a7a4fdc850465a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Twitter/3.1.3.1/7c250f616ae1edec1be799ddaabb8bc7aa3161fe/ShareSDK-Twitter-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c250f616ae1edec1be799ddaabb8bc7aa3161fe">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Twitter-3.1.3.1_85810fbc57a846f96eeb4fd05899ba0223be3219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-KakaoStory/3.1.3.1/343154e79a4fbc8d28c340e7567ac94419e56cf1/ShareSDK-KakaoStory-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343154e79a4fbc8d28c340e7567ac94419e56cf1">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-KakaoStory-3.1.3.1_f5c9ea10da72c3ff4766b404eb395bba71371a8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-Dingding/3.1.3.1/baf36b83947358118e6573eb93c772c434d57628/ShareSDK-Dingding-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baf36b83947358118e6573eb93c772c434d57628">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-Dingding-3.1.3.1_64082110b6b6f64b41d735c512fb3458f56f0a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/cn.sharesdk/ShareSDK-QQ/3.1.3.1/f8961d20827e22e9020672322790b6e644c1a09c/ShareSDK-QQ-3.1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8961d20827e22e9020672322790b6e644c1a09c">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/ShareSDK-QQ-3.1.3.1_153d831424852cd2e2086a4fdb539fc9dd2be510/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xc/.gradle/caches/modules-2/files-2.1/com.mob/MobTools/2018.0224.1419/41c27878ef75a74075b8570d3a00dea8e618c284/MobTools-2018.0224.1419.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41c27878ef75a74075b8570d3a00dea8e618c284">
+        <dex dex="/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/MobTools-2018.0224.1419_c00047f42aa2e495af611e9b3eb97431af645a5b/classes.dex" />
+    </item>
+
+</items>

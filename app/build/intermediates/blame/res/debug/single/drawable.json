@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_classic_progressbar.xml",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable/ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/ShareSDKLoginSample/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_classic_platform_cell_back.xml",
+        "source": "/Users/xc/.android/build-cache/563849d562f98694959473f5701043b792a1311d/output/res/drawable/ssdk_oks_classic_platform_cell_back.xml"
+    }
+]
